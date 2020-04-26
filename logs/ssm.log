@@ -1,0 +1,7 @@
+[INFO] [2020-04-21 22:45:41][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2020-04-21 22:45:41][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@9f70c54: startup date [Tue Apr 21 22:45:41 CST 2020]; root of context hierarchy
+  [INFO] [2020-04-21 22:45:41][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2020-04-21 22:45:41][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2020-04-21 22:45:42][com.javen.testmybatis.TestMyBatis]{"age":24,"id":1,"password":"sfasgfaf","userName":"测试"}
+  [INFO] [2020-04-21 22:45:42][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@9f70c54: startup date [Tue Apr 21 22:45:41 CST 2020]; root of context hierarchy
+  
